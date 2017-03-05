@@ -1,0 +1,19 @@
+C:\Users\hlucas\Google Drive\AcademyPGH\Array with 10 Random Numbers\Array with 10 Random Numbers\bin\Debug\Array with 10 Random Numbers.exe.config
+C:\Users\hlucas\Google Drive\AcademyPGH\Week 1\Array with 10 Random Numbers\Array with 10 Random Numbers\bin\Debug\Array with 10 Random Numbers.exe.config
+C:\Users\hlucas\Google Drive\AcademyPGH\Week 1\Array with 10 Random Numbers\Array with 10 Random Numbers\bin\Debug\Array with 10 Random Numbers.exe
+C:\Users\hlucas\Google Drive\AcademyPGH\Week 1\Array with 10 Random Numbers\Array with 10 Random Numbers\bin\Debug\Array with 10 Random Numbers.pdb
+C:\Users\hlucas\Google Drive\AcademyPGH\Week 1\Array with 10 Random Numbers\Array with 10 Random Numbers\obj\Debug\Array with 10 Random Numbers.csprojResolveAssemblyReference.cache
+C:\Users\hlucas\Google Drive\AcademyPGH\Week 1\Array with 10 Random Numbers\Array with 10 Random Numbers\obj\Debug\Array with 10 Random Numbers.exe
+C:\Users\hlucas\Google Drive\AcademyPGH\Week 1\Array with 10 Random Numbers\Array with 10 Random Numbers\obj\Debug\Array with 10 Random Numbers.pdb
+C:\Users\hlucas\Google Drive\AcademyPGH\Week 1\20160922\Array with 10 Random Numbers\Array with 10 Random Numbers\bin\Debug\Array with 10 Random Numbers.exe.config
+C:\Users\hlucas\Google Drive\AcademyPGH\Week 1\20160922\Array with 10 Random Numbers\Array with 10 Random Numbers\obj\Debug\Array with 10 Random Numbers.exe
+C:\Users\hlucas\Google Drive\AcademyPGH\Week 1\20160922\Array with 10 Random Numbers\Array with 10 Random Numbers\obj\Debug\Array with 10 Random Numbers.pdb
+C:\Users\hlucas\Google Drive\AcademyPGH\Week 1\20160922\Array with 10 Random Numbers\Array with 10 Random Numbers\bin\Debug\Array with 10 Random Numbers.exe
+C:\Users\hlucas\Google Drive\AcademyPGH\Week 1\20160922\Array with 10 Random Numbers\Array with 10 Random Numbers\bin\Debug\Array with 10 Random Numbers.pdb
+C:\Users\hlucas\Google Drive\AcademyPGH\Week 1\20160922\Array with 10 Random Numbers\Array with 10 Random Numbers\obj\Debug\Array with 10 Random Numbers.csprojResolveAssemblyReference.cache
+C:\Users\hlucas\Google Drive\AcademyPGH\week1\20160922\Array with 10 Random Numbers\Array with 10 Random Numbers\bin\Debug\Array with 10 Random Numbers.exe.config
+C:\Users\hlucas\Google Drive\AcademyPGH\week1\20160922\Array with 10 Random Numbers\Array with 10 Random Numbers\obj\Debug\Array with 10 Random Numbers.exe
+C:\Users\hlucas\Google Drive\AcademyPGH\week1\20160922\Array with 10 Random Numbers\Array with 10 Random Numbers\obj\Debug\Array with 10 Random Numbers.pdb
+C:\Users\hlucas\Google Drive\AcademyPGH\week1\20160922\Array with 10 Random Numbers\Array with 10 Random Numbers\bin\Debug\Array with 10 Random Numbers.exe
+C:\Users\hlucas\Google Drive\AcademyPGH\week1\20160922\Array with 10 Random Numbers\Array with 10 Random Numbers\bin\Debug\Array with 10 Random Numbers.pdb
+C:\Users\hlucas\Google Drive\AcademyPGH\week1\20160922\Array with 10 Random Numbers\Array with 10 Random Numbers\obj\Debug\Array with 10 Random Numbers.csprojResolveAssemblyReference.cache
